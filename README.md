@@ -3,6 +3,8 @@
 <h1 align="center">Hello there👋, I'm Serkan Kaya</h1>
 <h3 align="center">A backend developer who likes to be intertwined with software</h3>
 
+- 🌱 I’m currently learning **Advanced C#,ASP.net ,ASP.net Core, ML.net, Entity, MVC...**
+
 - 📫 How to reach me **serkankaya0721@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
