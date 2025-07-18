@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hello there👋, I'm Serkan Kaya</h1>
+<h1 align="center">Hi there, this is Serkan Kaya</h1>
 <h3 align="center">A backend developer who likes to be intertwined with software</h3>
 
-- 🌱 I’m currently learning **Advanced C#, ASP.Net Core, SQLServer, ML.Net, EntityFramework, MVC5...**
+- I’m currently learning **Advanced C#, ASP.Net Core, SQLServer, ML.Net, EntityFramework, MVC5...**
 
-- 📫 How to reach me **serkankaya0721@gmail.com**
+- How to reach me **serkankaya0721@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
