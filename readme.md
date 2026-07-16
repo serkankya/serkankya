@@ -22,7 +22,7 @@
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/c/@serkankya" target="_blank">
+<a href="https://www.youtube.com/@serkankya" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
 </a>
 </td>
